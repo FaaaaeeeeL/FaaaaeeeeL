@@ -1,5 +1,3 @@
-### Se aprochegue 
-
 <!--
 **FaaaaeeeeL/FaaaaeeeeL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,6 +7,13 @@ Here are some ideas to get you started:
 - 🌱 Um dia serei o Hokage DEV...
 - ⚡ Fun fact: HAHA ...
 -->
+####
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A2DFB&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D82FF&size=40&center=true&vCenter=true&width=1000&lines=SE+APROCHEGUE)](https://git.io/typing-svg)
+
+###
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="FaeL-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
