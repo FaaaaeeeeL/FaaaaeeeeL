@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: HAHA ...
 -->
 ####
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A2DFB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=280137&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D82FF&size=40&center=true&vCenter=true&width=1000&lines=SE+APROCHEGUE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=280137&size=40&center=true&vCenter=true&width=1000&lines=SE+APROCHEGUE)](https://git.io/typing-svg)
 
 ###
 
