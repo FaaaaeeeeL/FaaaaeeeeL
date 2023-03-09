@@ -34,6 +34,13 @@ Here are some ideas to get you started:
  <div> 
   <a href="https://github.com/Fael96" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    
+   ##
+   <div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FaaaaeeeeL&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
+   ##
+   
   
   
 
